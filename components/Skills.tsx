@@ -10,7 +10,7 @@ function Skills() {
             <div className='w-[80%] mx-auto pt-[4rem] md:pt-[8rem] grid grid-cols-1 md:grid-cols-2 gap-[2rem]
         items-center'>
                 <div>
-                    <Skillsitem title='React Developer' year='2023-2024' />
+                    
                     <Skillsitem title='Fullstack Developer' year='2023-2024' />
                     <Skillslanguage
                         skill1='html5'
@@ -22,7 +22,7 @@ function Skills() {
                 </div>
                 <div>
                     <Skillsitem title='Nextjs Developer' year='2023-2024' />
-                    <Skillsitem title='Nodejs Developer' year='2023-2024' />
+                    
                     <Skillslanguage
                         skill1='Next js'
                         skill2='TailwindCss'

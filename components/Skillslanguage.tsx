@@ -12,7 +12,7 @@ interface props {
 function Skillslanguage({ skill1, skill2, skill3, level1, level2, level3 }: props) {
     return (
        <div>
-         <div className='relative mb-[3rem]'>
+         <div className='relative mb-[3rem] justify-end'>
             <h1 className='p-5 mt-[2rem] w-[100%] uppercase bg-gray-600 rounded-sm text-white
             text-[20px] font-bold'>{skill1}</h1>
             <span 

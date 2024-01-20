@@ -18,7 +18,7 @@ function Services() {
                             Frontend
                         </h1>
                         <p className='text-[15px] text-[#d3d2d2] font-normal'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati rerum et quod, nostrum exercitationem odit laudantium? Perspiciatis repellendus earum vel eaque, dolor id. Architecto rem harum, veritatis dolore nulla culpa.
+                            I'm a Frontend Developer skilled in turning designs into interactive websites using HTML, CSS, and TypeScript. I focus on creating user-friendly interfaces with a keen eye for detail. Check out my portfolio to see how I blend creativity and technical expertise in frontend development.
                         </p>
                     </div>
                 </div>
@@ -30,7 +30,7 @@ function Services() {
                             backend
                         </h1>
                         <p className='text-[15px] text-[#d3d2d2] font-normal'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati rerum et quod, nostrum exercitationem odit laudantium? Perspiciatis repellendus earum vel eaque, dolor id. Architecto rem harum, veritatis dolore nulla culpa.
+                            I'm a Backend Developer skilled in building functional web applications using Node.js and Python. I focus on creating efficient and secure server-side logic to enhance overall application performance, showcasing the seamless integration of technical expertise and creative problem-solving in backend development.
                         </p>
                     </div>
                 </div>
@@ -42,7 +42,7 @@ function Services() {
                             FullStacke
                         </h1>
                         <p className='text-[15px] text-[#d3d2d2] font-normal'>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati rerum et quod, nostrum exercitationem odit laudantium? Perspiciatis repellendus earum vel eaque, dolor id. Architecto rem harum, veritatis dolore nulla culpa.
+                        I'm a Full Stack Developer proficient in crafting dynamic web applications using TypeScript, React, and Next.js. My expertise spans both frontend and backend development, highlighting the seamless integration of creativity, technical proficiency, and innovative problem-solving.
                         </p>
                     </div>
                 </div>
