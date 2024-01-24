@@ -3,7 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 function Projects() {
-    return (
+    return (   
         <div className='bg-[#050b0f] pt-[4rem] md:pt-[8rem] pb-[3rem]'>
             <h1 className='heading'>
                 PROj<span className='text-yellow-400'>ECTS</span>

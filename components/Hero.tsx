@@ -4,6 +4,7 @@ import TextEffect from '@/components/TextEffect';
 import Image from 'next/image'; // Import the Image component from next
 import { ArrowDownTrayIcon, PlayCircleIcon } from '@heroicons/react/20/solid';
 import Link from 'next/link';
+import SMicons from './SMicons';
 
 
 function Hero() {
@@ -39,7 +40,8 @@ function Hero() {
                     <div className='w-[450px] hidden bg-[#51ebd4] relative lg:flex items-center rounded-full h-[450px]'>
                         {/* Use the Image component */}
                         <Image src='/images/Profile 1.jpg' alt='User' layout='fill' className='object-cover rounded-full' />
-                    </div> 
+                    </div>
+                    {/* <div className='text-4xl text-[28px] col-span-2'><SMicons/></div>  */}
                 </div> 
             </div>
         </div>

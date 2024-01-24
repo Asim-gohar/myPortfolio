@@ -4,8 +4,7 @@ import SMicons from './SMicons'
 
 function Footer() {
     return (
-        <div className='pt-[8rem] pb-[4rem] bg-[#0a1620]'>
-             <span className='text-center text-[18px] pl-[3rem]'><SMicons/></span>
+        <div className='pt-[8rem] pb-[4rem] bg-[#0a1620]'> 
             <div className='grid border-b-[1px] pb-[6rem] border-gray-400 grid-cols-1 
         lg:grid-cols-3 md:grid-cols-2 w-[80%] mx-auto gap-[3rem]'>
             
